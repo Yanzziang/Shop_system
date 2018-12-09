@@ -1,0 +1,49 @@
+[PropertyInfo]
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+borderLayout2,java.awt.BorderLayout,false,false, , ,false,<default>
+image1,javax.swing.ImageIcon,false,false, , ,false,<default>
+image2,javax.swing.ImageIcon,false,false, , ,false,<default>
+image3,javax.swing.ImageIcon,false,false, , ,false,<default>
+image4,javax.swing.ImageIcon,false,false, , ,false,<default>
+JButton1,javax.swing.JButton,false,false, , ,false,<default>
+JButton2,javax.swing.JButton,false,false, , ,false,<default>
+JButton3,javax.swing.JButton,false,false, , ,false,<default>
+JMenu1,javax.swing.JMenu,false,false, , ,false,<default>
+JMenu2,javax.swing.JMenu,false,false, , ,false,<default>
+JMenu3,javax.swing.JMenu,false,false, , ,false,<default>
+JMenu4,javax.swing.JMenu,false,false, , ,false,<default>
+JMenu5,javax.swing.JMenu,false,false, , ,false,<default>
+JMenuBar1,javax.swing.JMenuBar,false,false, , ,false,<default>
+JMenuFile,javax.swing.JMenu,false,false, , ,false,<default>
+JMenuFileExit,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMenuHelp,javax.swing.JMenu,false,false, , ,false,<default>
+JMenuHelpAbout,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMenuItem18,javax.swing.JMenuItem,false,false, , ,false,<default>
+JPanel1,javax.swing.JPanel,false,false, , ,false,<default>
+JToolBar,javax.swing.JToolBar,false,false, , ,false,<default>
+lblDesktop,javax.swing.JLabel,false,false, , ,false,<default>
+lblSys,javax.swing.JLabel,false,false, , ,false,<default>
+lblTime,javax.swing.JLabel,false,false, , ,false,<default>
+lblUser,javax.swing.JLabel,false,false, , ,false,<default>
+mnuGuoQi,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuGuoQiS,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuItemAddUser,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuLog,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuLogout,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuMedicineAdd,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuMedicineS,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuMedicineU,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuPass,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuSaleAdd,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuSaleS,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuSupplier,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuSupplierC,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuTotalBaoSun,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuTotalKuCun,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuTotalSale,javax.swing.JMenuItem,false,false, , ,false,<default>
+mnuUserQuery,javax.swing.JMenuItem,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
